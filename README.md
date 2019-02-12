@@ -3,6 +3,7 @@ This is a Laravel project for Ekiti State University to manage the Faculty Of Ed
 
 [Click Here](https://education-eksu.herokuapp.com/) for demo
 
-##Login Detail
+## Login Detail
+
 Email: admin@elms.com
 password: password
