@@ -6,4 +6,8 @@ This is a Laravel project for Ekiti State University to manage the Faculty Of Ed
 ## Login Detail
 
 Email: admin@elms.com
+
 password: password
+
+## Image
+![Screeshot](screenshot/home.png "Index Page")
